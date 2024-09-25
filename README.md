@@ -38,6 +38,3 @@ To run this project, you will need:
 
 ## Disclaimer
 This project is for **educational and entertainment purposes only**. It is not intended for commercial use, and the data and results generated from this simulation are based on assumptions and should not be used for any gambling or financial decisions.
-
-## License
-[MIT License](LICENSE)
